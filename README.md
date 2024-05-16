@@ -1,4 +1,4 @@
-FCode is an open-source text editor
+FCode is an open-source code editor
 
 WARNING! FCode open-source will be updated untill full 1.0.0 relase!
 
